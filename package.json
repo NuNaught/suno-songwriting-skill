@@ -1,0 +1,34 @@
+{
+  "name": "suno-songwriting-skill",
+  "version": "1.0.0",
+  "description": "Open Agent Skill for generating Suno-ready lyrics, style prompts, and vocal direction.",
+  "license": "Apache-2.0",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuNaught/suno-songwriting-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NuNaught/suno-songwriting-skill/issues"
+  },
+  "homepage": "https://github.com/NuNaught/suno-songwriting-skill#readme",
+  "files": [
+    "suno-songwriting/",
+    "README.md"
+  ],
+  "scripts": {
+    "pack:dry-run": "npm pack --dry-run",
+    "test": "npm run pack:dry-run"
+  },
+  "keywords": [
+    "open-agent-skill",
+    "agent-skill",
+    "suno",
+    "songwriting",
+    "lyrics",
+    "ai-music"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

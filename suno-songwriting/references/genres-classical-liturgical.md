@@ -1,0 +1,13 @@
+# Classical, Liturgical, and Art-Music Genres
+
+Use for sacred, courtly, chamber, contrapuntal, orchestral, minimalist, or classical-jazz hybrid prompts.
+
+| Genre name | Summary | Key identifying characteristics | Associated instruments |
+| --- | --- | --- | --- |
+| Western plainchant                         | Monophonic sacred chant of medieval Western Christianity.                               | Free rhythm, single melodic line, modal language, unaccompanied liturgical singing.                                  | Voice                                                                       |
+| Ars subtilior                              | Highly intricate late-medieval court music from 14th-century Europe.                    | Extreme rhythmic complexity, syncopation, notation puzzles, refined secular art style.                               | Voice, harp, lute, fiddle                                                   |
+| Renaissance madrigal                       | Through-composed secular vocal chamber music of Renaissance Europe.                     | Word painting, polyphony, expressive text setting, small vocal ensemble.                                             | Voices, lute, viols                                                         |
+| Baroque fugue                              | Learned contrapuntal form central to high Baroque art music.                            | Subject entries, imitation, sequential development, tonal architecture.                                              | Harpsichord, organ, strings, chamber ensemble                               |
+| Viennese waltz                             | Fast triple-meter ballroom dance genre from Central Europe.                             | Strong 3/4 pulse, rotating dance feel, sweeping phrase arcs, elegant orchestration.                                  | Strings, woodwinds, brass, timpani                                          |
+| Third stream                               | Hybrid tradition combining classical chamber writing and jazz language.                 | Mixed notation and improvisation, chamber textures, jazz harmony and rhythm.                                         | Piano, strings, winds, bass, drum kit                                       |
+| Minimalism                                 | Repetition-based late-20th-century art music.                                           | Additive/subtractive processes, pulse-driven textures, gradual change, modal stasis.                                 | Keyboards, mallet percussion, strings, winds, voices                        |

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Suno Songwriting"
+  short_description: "Draft lyrics and Suno style prompts"
+  default_prompt: "Use $suno-songwriting to write song lyrics and a Suno style prompt."
